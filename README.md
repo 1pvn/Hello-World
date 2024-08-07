@@ -18,7 +18,7 @@ If you prefer using Visual Studio Code, follow these steps:
 
 4. **Save the File:** Save the new file with the name `hello.py` by clicking on **File** > **Save As...** and typing `hello.py`.
 
-5. **Copy the Code:** Paste the following code into `hello.py`:
+5. **Copy the Code:** Paste the following code into `hello.py`: or you can type it
 
    ```python
    print("hello, world🌏")
